@@ -75,7 +75,7 @@ I selected CatBoost as the primary model based on its proven handling of tempora
 - Tree depth options: [4, 6]
 - L2 regularization options: [2, 3]
 - Bootstrap types: ["Bayesian", "Bernoulli"]
-- Used GridSearchCV to choose the best performant paraemters
+- Used GridSearchCV to choose the best performant parameters
 
   ### Best parameters
 
