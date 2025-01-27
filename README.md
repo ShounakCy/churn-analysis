@@ -97,6 +97,9 @@ The model demonstrates strong predictive capability:
 
 ![Confusion Matrix](assets/confusion_matrix.png)
 
+- 1: Churned
+- 0: Not Churned
+  
 At our optimal threshold of 0.55, the model achieves:
 
 - True Positives: 2015 (correctly identified churners)
